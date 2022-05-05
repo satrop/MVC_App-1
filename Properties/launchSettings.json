@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "MVC_App_1": {
+      "hotreloadprofile": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
